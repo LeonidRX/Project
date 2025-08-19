@@ -1,3 +1,4 @@
 New file check ssh
 
 edit1
+   fix_error 1
